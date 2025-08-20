@@ -5,6 +5,7 @@ This study introduces a novel finite-volume based physics-informed Fourier neura
 # FV-PIFNO-Data
  The the dataset used in FV-PIFNO model training is available at https://drive.google.com/drive/folders/14o40TUStynrOySdDWEqR6Ks7HNEn681m?usp=drive_link
 # Citation
+```
 @article{yan2025finite,
   title={A Finite-Volume Based Physics-Informed Fourier Neural Operator Network for Parametric Learning of Subsurface Flow},
   author={Yan, Xia and Lin, Jingqi and Ju, Yafeng and Zhang, Qi and Zhang, Zhao and Zhang, Liming and Yao, Jun and Zhang, Kai},
@@ -13,3 +14,4 @@ This study introduces a novel finite-volume based physics-informed Fourier neura
   year={2025},
   publisher={Elsevier}
 }
+```
